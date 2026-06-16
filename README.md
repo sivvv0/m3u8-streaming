@@ -1,6 +1,7 @@
 # m3u8-streaming
 
 [![NPM](https://nodei.co/npm/@s1vann/m3u8.png?mini=true)](https://npmjs.org/package/@s1vann/m3u8)
+[![install size](https://packagephobia.com/badge?p=@s1vann/m3u8)](https://packagephobia.com/result?p=@s1vann/m3u8)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Version](https://img.shields.io/node/v/@s1vann/m3u8.svg)](https://nodejs.org)
