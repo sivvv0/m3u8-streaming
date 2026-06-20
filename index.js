@@ -176,7 +176,7 @@ function m3u8(playlist, options = {}) {
     
   } catch (error) {
     if (opts.strictMode) {
-      throw new Error(`Failed to parse m3u8 playlist: ${error.message}`);
+      throw new Error(`Failed To parse m3u8 playlist: ${error.message}`);
     }
     if (opts.verbose) console.error(`Parse error: ${error.message}`);
     return opts.outputFormat === 'array' ? [] : null;
